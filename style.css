@@ -38,15 +38,12 @@ h1{
     width: 50%;
     height: 100px;
 }
-  
-}
 .highlite{
     color: salmon;
     background-color: red;
 }
-}
 .half-width img{
-    100%
+    width: 100%;
 }
 .half-width{
     height: 600px;
